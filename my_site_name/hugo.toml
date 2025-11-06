@@ -4,3 +4,9 @@ title = 'My New Hugo Site'
 
 # enable the avicenna theme so Hugo can find theme layouts/shortcodes
 theme = "avicenna"
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
