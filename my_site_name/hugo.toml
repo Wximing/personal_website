@@ -1,0 +1,6 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+# enable the avicenna theme so Hugo can find theme layouts/shortcodes
+theme = "avicenna"
