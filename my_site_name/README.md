@@ -1,3 +1,5 @@
+hugo serve
+https://github.com/hadisinaee/avicenna
 # personal_website — Multi-Device Git Workflow (macOS & Windows)
 
 This guide explains how to work on this repository from **multiple computers** (macOS & Windows) safely and consistently.
