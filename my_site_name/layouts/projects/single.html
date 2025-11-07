@@ -1,0 +1,7 @@
+{{ define "main" }}
+{{ with .Params.image }}
+<img src="{{ . }}" alt="{{ $.Title }}" style="max-width: 300px; display: block; margin: 0 auto 1em;" />
+{{ end }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+{{ end }}
